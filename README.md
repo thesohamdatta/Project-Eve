@@ -1,4 +1,4 @@
-# LiveKit Voice Agent
+# Project Eve
 
 ![alt text](<SUPER NATURE DESIGN.gif>)
 
@@ -29,6 +29,8 @@ First run only (if model files are missing):
 ```powershell
 uv run agent.py download-files
 ```
+<img width="1616" height="924" alt="Screenshot 2026-05-06 133253" src="https://github.com/user-attachments/assets/a6b3df67-f736-432b-967f-a66d0fa8c5cd" />
+
 
 ## Environment
 
